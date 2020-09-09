@@ -1,0 +1,55 @@
+NOME: Luiz Augusto Rodrigo Vieira da Fonseca
+RA: 1460682023010
+
+
+Exercicios de 1 a 5: link GitHub - https://github.com/luizfonseca5/atividade_introducao
+
+Exercicio 6
+Parte 1
+
+SISTEMA COMPUTACIONAL: Sistema operacional:WINDOWS, Software: OneDrive
+
+DADO: É um registro ou valor sem significado, como por exemplo: 58.
+
+INFORMAÇÃO: É um dado com significado, por exemplo: 58 itens, significa a quantidade de itens.
+
+CONHECIMENTO: Quando utiizamos os dados da informação, por exemplo: Excluindo 58 itens de Documentos
+
+
+Parte 2- TABELA ASCII
+
+NOME / DECIMAL / BINARIO
+L---------76-----0100 1100
+u--------117-----0111 0101
+i--------105-----0110 1001
+z--------122-----0111 1010
+
+F---------70-----0100 0110
+o--------111-----0110 1111
+n--------110-----0110 1110
+s--------115-----0111 0011
+e--------101-----0110 0101
+c---------99-----0110 0011
+a---------97-----0110 0001
+
+SAIDA:
+01001100
+01110101
+01101001
+01111010
+
+01000110
+01101111
+01101110
+01110011
+01100101
+01100011
+01100001
+
+Parte 3-
+Site: OneDrive - https://onedrive.live.com/
+
+OneDrive, é um serviço de armazenamento em nuvem da Microsoft. Com ele é possível armazenar e hospedar qualquer arquivo, usando uma Conta da Microsoft.
+
+Esse site é criptografado, para que o trafego de dados seja seguro, ou seja, para que não ocorra o caso de um terceiro interceptar ou visualizar seus dados durante seu acesso no site.
+É utilizado duas chaves, a pública e a privada. É utilizado também o algoritmo RSA em sua chave, que é um algoritmo bem mais complexo do que a Cifra de Cesar, sua chave possui 2048 Bits.
